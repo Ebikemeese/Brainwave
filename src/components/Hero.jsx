@@ -43,7 +43,7 @@ const Hero = () => {
                 </p>
 
                 <Button 
-                    href='/pricing'
+                    href='#pricing'
                     white
                 >
                     Get started
