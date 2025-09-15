@@ -18,7 +18,7 @@ const Footer = () => {
                         <BsWhatsapp />
                     </a>
 
-                    <a className="flex mr-4 items-center justify-center w-10 h-10 bg-n-7 rounded-full transition-colors hover:bg-n-6" href='mailto:ebikemeese@gmail.com?subject=Brainwave' target='_blank'>
+                    <a className="flex lg:mr-4 xl:mr-4 md:mr-4 items-center justify-center w-10 h-10 bg-n-7 rounded-full transition-colors hover:bg-n-6" href='mailto:ebikemeese@gmail.com?subject=Brainwave' target='_blank'>
                         <BiMailSend />
                     </a>
                     
